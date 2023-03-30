@@ -3,7 +3,7 @@
 - Front Lead Developer experience 1+ year.
 - The main JS library I've worked with is React (Redux's state manager). 
 - Experience in developing and maintaining several large business applications for buying and selling in real time.
-- Experienced in working with teams to develop innovative solutions that meet customer requirements on time.
+- Experience in working with teams to develop innovative solutions that meet customer requirements on time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-o-573b2a214) 
