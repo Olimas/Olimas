@@ -1,7 +1,7 @@
 # 💫 About Me:
-The main JS library I've worked with is React (Redux's state manager). 
-I have experience in commercial work for about 2 years. 
-Worked as a Front Lead Developer for 1 year.
+- The main JS library I've worked with is React (Redux's state manager). 
+- I have experience in commercial work for about 2 years. 
+- Worked as a Front Lead Developer for 1 year.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-o-573b2a214) 
