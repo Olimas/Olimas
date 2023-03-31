@@ -57,6 +57,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2335BDB2.svg?style=for-the-badge&logo=ChatGPT&logoColor=white) 
+![Midjourney](https://img.shields.io/badge/Midjourney-hotpink.svg?style=for-the-badge&logo=Midjourney&logoColor=white) 
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-2B4C80?style=for-the-badge&logo=StableDiffusion&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Olimas&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Olimas&theme=react&hide_border=false)<br/>
