@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Commercial work experience 2+ years. 
+- Commercial work experience 3+ years. 
 - Front Lead Developer experience 1+ year.
 - The main JS library I've worked with is React (Redux's state manager). 
 - Experience in developing and maintaining several large business applications for buying and selling in real time.
@@ -60,13 +60,3 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2335BDB2.svg?style=for-the-badge&logo=ChatGPT&logoColor=white) 
 ![Midjourney](https://img.shields.io/badge/Midjourney-hotpink.svg?style=for-the-badge&logo=Midjourney&logoColor=white) 
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-2B4C80?style=for-the-badge&logo=StableDiffusion&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Olimas&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Olimas&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olimas&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Olimas&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
