@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Commercial work experience 3+ years. 
-- Front Lead Developer experience 2+ year.
+- Front Lead Developer experience 2+ years.
 - The main JS library I've worked with is React (Redux's state manager). 
 - Experience in developing and maintaining several large business applications for buying and selling in real time.
 - Experience in working with teams to develop innovative solutions that meet customer requirements on time.
